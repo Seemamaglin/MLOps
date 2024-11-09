@@ -1,1 +1,5 @@
-hi hello vanakam 
+git init
+git clone  (http link)
+git add .
+git status
+git commit -m "Message"
