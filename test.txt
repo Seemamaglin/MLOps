@@ -2,4 +2,4 @@ git init
 git clone  (http link)
 git add .
 git status
-git commit -m "Message"
+git commit -m "Messages"
